@@ -255,3 +255,4 @@ FOR A PARTICULAR PURPOSE.
 
 RGBDSLAM is licenced under GPL v.3. See the accompanying file "COPYING".
 
+# rgbdslam_v2-indigo
